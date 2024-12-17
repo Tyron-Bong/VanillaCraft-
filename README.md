@@ -1,3 +1,1 @@
-"# VanillaCraft-" 
-"# VanillaCraftPlus" 
-"# VanillaCraftPlus" 
+VanillaCraft+

@@ -1,0 +1,1 @@
+ NSISdl::download_quiet http://download.nullsoft.com/winamp/client/winamp291_lite.exe $0 
