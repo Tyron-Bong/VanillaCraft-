@@ -1,2 +1,3 @@
 "# VanillaCraft-" 
 "# VanillaCraftPlus" 
+"# VanillaCraftPlus" 
