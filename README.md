@@ -82,7 +82,7 @@ Designed for **multiplayer servers**, VanillaCraftPlus strikes a balance between
 ### **Main Modpack**
 - [**Download Modpack**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fed04b4c67d119867ddeede261ce3c2aa23cdb414%2FMods)
 
-### **Compulsory Datapack**  
+### **Compulsory Datapack for Server Owner/Singleplayer use**  
 *(Removes Outreach Enchantment to prevent crashes when applied on armor stand equipment)*  
 - [**Download Datapack**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FDatapacks)
 
