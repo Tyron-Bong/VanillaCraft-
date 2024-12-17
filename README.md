@@ -87,8 +87,8 @@ Designed for **multiplayer servers**, VanillaCraftPlus strikes a balance between
 - [**Download Datapack**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FDatapacks)
 
 ### **Optional Add-ons**
-- [**Resourcepacks**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FResourcepacks)
-- [**Shaderpacks**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FShaderpacks)
+- [**Resourcepacks**]([https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FResourcepacks](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FResource%2520Packs))
+- [**Shaderpacks**]([https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FShaderpacks](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FTyron-Bong%2FVanillaCraftPlus%2Ftree%2Fmain%2FShader%2520Packs))
 
 ---
 
